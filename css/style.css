@@ -2,3 +2,14 @@
 @import "container";
 @import "header";
 @import "footer";
+
+p{
+    text-align: center;
+}
+
+image-text-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  
