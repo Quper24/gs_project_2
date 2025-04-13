@@ -1,3 +1,4 @@
+
 @import "reboot";
 @import "container";
 @import "header";
@@ -10,6 +11,14 @@
     margin: 0 auto;
   }
   
+
+@import "./reboot.css";
+@import "./container.css";
+@import "./header.css";
+@import "./footer.css"
+@import "./main.css";
+
+
 .p {
     text-align: center;
 }
