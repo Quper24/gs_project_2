@@ -1,6 +1,6 @@
-@import "reboot";
-@import "container";
-@import "header";
+@import "./reboot.css";
+@import "./container.css";
+@import "./header.css";
 @import "./footer.css"
 @import "./main.css";
 
@@ -35,8 +35,5 @@ h3 {
    left:1000px;
    color: blueviolet;
 }
-
-
-
 
 
