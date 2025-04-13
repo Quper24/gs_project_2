@@ -1,43 +1,55 @@
 @import "reboot";
 @import "container";
 @import "header";
-@import "./footer";
-
-
+@import "footer";
+@import "./main.css";
+@import "./style.css";
+.container {
+    max-width: 2000px;
+    padding: 0 20px;
+    margin: 0 auto;
+  }
+  
 .p {
     text-align: center;
 }
-textarea {
-position: absolute;
-bottom: 600px;
-left: 450px;
-}
-.main-1 {
-    position: absolute;
-    bottom: 600px;
-    left:800px;
-}
 
-.main-2{
-    position: absolute;
-    bottom: 600px;
-    left: 1200px
-}
+
 
 h3 {
-    position: absolute;
-    bottom:400px;
+    position: relative;
+    bottom: 160px;
     left: 800px;
 }
+
  h4{
-   position: absolute;
-   bottom: 400px;
-   left:1000px;
+   position: relative;
    color: blueviolet;
+   left: 1050px;
+   bottom: 100px;
+ }
+ 
+ .card__title {
+    z-index:5 ;
+ position: absolute;
+  left: 500px;
+bottom: 650px;
+color: aliceblue;
+width: 30px;
+ }
+ .card__title__text {
+   z-index: 9;
+   position: absolute;
+   left: 900px;
+   bottom: 650px;
+   color: aliceblue;
+   width: 30px;
+ }
+.texts {
+  z-index: 13;
+  position: absolute;
+  left: 1310px;
+  bottom: 650px;
+  color: aliceblue;
+  width: 30px;
 }
-
-@import "./main.css";
-
-
-
-    

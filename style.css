@@ -1,0 +1,35 @@
+@import "reboot";
+@import "container";
+@import "header";
+@import "footer";
+@import "./main.css";
+@import "./style.css";
+
+.p {
+    text-align: center;
+}
+
+.main-1 {
+    position: relative;
+    bottom: 600px;
+    left:800px;
+}
+
+.main-2{
+    position: relative;
+    bottom: 600px;
+    left: 1200px
+}
+
+h3 {
+    position: relative;
+    bottom: 100px;
+    left: 800px;
+}
+
+ h4{
+   position: relative;
+   color: blueviolet;
+   left: 1050px;
+   
+ }
