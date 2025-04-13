@@ -1,4 +1,39 @@
 @import "./reboot.css";
 @import "./container.css";
 @import "./header.css";
-@import "./footer.css";
+@import "./footer.css"
+@import "./main.css";
+
+.p {
+    text-align: center;
+}
+textarea {
+position: absolute;
+bottom: 600px;
+left: 450px;
+}
+.main-1 {
+    position: absolute;
+    bottom: 600px;
+    left:800px;
+}
+
+.main-2{
+    position: absolute;
+    bottom: 600px;
+    left: 1200px
+}
+
+h3 {
+    position: absolute;
+    bottom:400px;
+    left: 800px;
+}
+ h4{
+   position: absolute;
+   bottom: 400px;
+   left:1000px;
+   color: blueviolet;
+}
+
+

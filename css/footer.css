@@ -1,0 +1,79 @@
+.contener-bg {
+    width: 1440px;
+    height: 166px;
+    background-color: #000000;
+    color: #000000;
+
+
+}
+
+.text1 {
+    width: 600px;
+    height: 28px;
+    left: 70px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.bg {
+    width: 134px;
+    height: 28px;
+    left: 162px;
+    color: #8B8B8B;
+    size: 14px;
+    
+}
+
+.purpel {
+    width: 50px;
+    height: 28px;
+    left: 584px;
+    size: 13px;
+    color: #8D4FDB;
+}
+
+.text2 {
+    width: 400px;
+    height: 28px;
+    top: 38px;
+    left: 70px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+.bg1 {
+    width: 78px;
+    height: 28px;
+    left: 243;
+    size: 14px;
+    color: #8B8B8B;
+}
+
+.purpe2 {
+    width: 87px;
+    height: 28px;
+    left: 321px;
+    size: 14px;
+    color: #8D4FDB;
+}
+
+.bg2 {
+    width: 75px;
+    height: 28px;
+    left: 418px;
+    size: 14px;
+    color: #8B8B8B;
+}
+
+.purpe3 {
+    width: 55px;
+    height: 28px;
+    left: 493px;
+    size: 13px;
+    color: #8D4FDB;
+}
+
