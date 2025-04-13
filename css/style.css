@@ -1,8 +1,8 @@
 @import "reboot";
 @import "container";
 @import "header";
-@import "./footer";
-
+@import "./footer.css"
+@import "./main.css";
 
 .p {
     text-align: center;
@@ -36,8 +36,7 @@ h3 {
    color: blueviolet;
 }
 
-@import "./main.css";
 
 
 
-    
+
